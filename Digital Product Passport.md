@@ -77,11 +77,19 @@
 
 ## Sources
 
-- <a id="DPGuide2026"></a>
-  What is the EU Digital Product Passport? Complete 2026 Guide<br/>
-  URL: https://passporteu.app/en/blog/what-is-eu-digital-product-passport
+- An Asset Administration Shell-Based Digital Product Passport as a Gaia-X Service
+  URL: https://www.sciencedirect.com/science/article/pii/S2212827124003482?__cf_chl_f_tk=ppZx76WjvgYhLsv57pMg7svC_MQvubpEXfnUw8X9q8w-1782810614-1.0.1.1-zqBH_WHht3M8tqGRN8H1fESInXTq.Xa0V1LwtLYvZxc
+- AAS Specification:
+  URL: https://industrialdigitaltwin.org/content-hub/aasspecifications
+- Basyx Videos:
+  https://eclipse.dev/basyx/videos/
 - <a id="DPPExample2026"></a>
   Digital Product Passport Examples: What a DPP Looks Like (2026)<br/>
   URL: https://passportcraft.com/insights/digital-product-passport-examples
 - DPP Data Requirements: What Information You Need to Collect (2026)<br/>
   URL: https://passportcraft.com/insights/dpp-data-requirements-what-to-collect
+- General information on the Asset Administration Shell and OPC UA
+  URL: https://reference.opcfoundation.org/specs/OPC-30270/4
+- <a id="DPGuide2026"></a>
+  What is the EU Digital Product Passport? Complete 2026 Guide<br/>
+  URL: https://passporteu.app/en/blog/what-is-eu-digital-product-passport
