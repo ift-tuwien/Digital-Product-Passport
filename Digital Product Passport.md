@@ -15,6 +15,7 @@
 - AB: Advisory Board
 - AI: Application Identifier, e.g. `01` for GTIN
 - B2B2C: Business to Business to Consumer
+- CE: Carbon Emissions
 - CEAP: Circular Economy Action Plan
 - [CENELEC](https://en.wikipedia.org/wiki/European_Committee_for_Electrotechnical_Standardization): European Committee for Electrotechnical Standardization
 - CPV: Consumer Product Variant
@@ -39,12 +40,14 @@
 - [IDSA](https://internationaldataspaces.org): International Data Spaces Association
 - IPR: Intellectual Property Rights
 - KER: Key Expected Results
+- [MES](https://en.wikipedia.org/wiki/Manufacturing_execution_system): Manufacturing Execution System
 - OA: Open Access
 - [ODRL](https://en.wikipedia.org/wiki/ODRL): Open Digital Rights Language
 - PDCER: Plan for D&C&E Strategy
 - PI: Project Identity
 - PIM: Product Information Management
 - PLM: Product Lifecycle Management
+- PMS: Process Management System
 - SGTIN: Serialized GTIN
 - SC: Steering Committee
 - SKU: Stock Keeping Unit
