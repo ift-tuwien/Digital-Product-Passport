@@ -64,6 +64,7 @@
 
 ## Projects
 
+- [Gaia-X](https://en.wikipedia.org/wiki/Gaia-X): Data structure for digital sovereignty
 - CIRPASS: EU Project about digital product passports
 - PONTUS-X: Data space project (includes Flex4Res)
 
