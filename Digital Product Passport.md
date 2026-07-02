@@ -1,6 +1,14 @@
-# Digital Product Passport
+# Digital Product Passport (DPP)
 
 - It follows a defined data schema, supports tiered access for different users, and registers with the EU's central DPP registry [[DPPExample2026]](#DPPExample2026).
+- Data that should be part of DPP [[AAS2024]](#AAS2024):
+  - General Data
+  - Bill of Materials
+  - Manufacturing & Transport
+  - Design: repair and disassembly instructions
+  - Life-cycle: product use, maintenance and repair
+  - Carbon footprint
+
 - JSON-LD as preferred format
 - GS1 Digital Link for QR codes
   - Specification for:
@@ -84,7 +92,8 @@
 
 ## Sources
 
-- An Asset Administration Shell-Based Digital Product Passport as a Gaia-X Service
+- <a id="AAS2024"></a>
+  An Asset Administration Shell-Based Digital Product Passport as a Gaia-X Service
   URL: https://www.sciencedirect.com/science/article/pii/S2212827124003482?__cf_chl_f_tk=ppZx76WjvgYhLsv57pMg7svC_MQvubpEXfnUw8X9q8w-1782810614-1.0.1.1-zqBH_WHht3M8tqGRN8H1fESInXTq.Xa0V1LwtLYvZxc
 - AAS Specification:
   URL: https://industrialdigitaltwin.org/content-hub/aasspecifications
