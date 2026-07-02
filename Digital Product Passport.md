@@ -15,7 +15,9 @@
 - AB: Advisory Board
 - AI: Application Identifier, e.g. `01` for GTIN
 - B2B2C: Business to Business to Consumer
-- CE: Carbon Emissions
+- CE:
+  - Carbon Emissions
+  - [Conformité Européenne](https://en.wikipedia.org/wiki/CE_marking)
 - CEAP: Circular Economy Action Plan
 - [CENELEC](https://en.wikipedia.org/wiki/European_Committee_for_Electrotechnical_Standardization): European Committee for Electrotechnical Standardization
 - CPV: Consumer Product Variant
@@ -23,6 +25,7 @@
 - DPP: Digital Product Passport
 - DPPEB: Digital Product Passport Expert Board
 - DSSC: Data Spaces Support Center
+- EDC: Eclipse Data Space Connector
 - [EDI](https://en.wikipedia.org/wiki/Electronic_data_interchange): Electronic Data Interchange
 - EI: Expected Impacts
 - EO: Expected Outcome
@@ -38,8 +41,10 @@
 - [GSRN](https://www.gs1.org/standards/id-keys/gsrn): Global Service Relation Number
 - GTIN: Global Trade Identifier Name
 - [IDSA](https://internationaldataspaces.org): International Data Spaces Association
+- IDTA: Industrial Digital Twin Association
 - IPR: Intellectual Property Rights
 - KER: Key Expected Results
+- MLP: Multi Language Property
 - [MES](https://en.wikipedia.org/wiki/Manufacturing_execution_system): Manufacturing Execution System
 - OA: Open Access
 - [ODRL](https://en.wikipedia.org/wiki/ODRL): Open Digital Rights Language
@@ -51,6 +56,8 @@
 - SGTIN: Serialized GTIN
 - SC: Steering Committee
 - SKU: Stock Keeping Unit
+- SMC: Submodel Element Collections
+- SML: Submodel Element List
 - SME: Small Medium Enterprise
 - SO: Strategic Objective
 - [SSCC](https://www.gs1.org/standards/id-keys/sscc): Serial Shipping Container Codes
