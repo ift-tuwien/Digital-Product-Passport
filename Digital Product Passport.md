@@ -121,3 +121,5 @@
 - <a id="DPGuide2026"></a>
   What is the EU Digital Product Passport? Complete 2026 Guide<br/>
   URL: https://passporteu.app/en/blog/what-is-eu-digital-product-passport
+- UML Class Diagram Tutorial
+  URL: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
