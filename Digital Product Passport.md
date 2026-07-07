@@ -50,6 +50,8 @@
 - GTIN: Global Trade Identifier Name
 - [IDSA](https://internationaldataspaces.org): International Data Spaces Association
 - IDTA: Industrial Digital Twin Association
+- IEC: International Electrotechnical Commission
+- IEC CDD: IEC Common Data Dictionary
 - IPR: Intellectual Property Rights
 - KER: Key Expected Results
 - MLP: Multi Language Property
@@ -75,7 +77,11 @@
 - [TRL](https://en.wikipedia.org/wiki/Technology_readiness_level): Technology Readiness Level
 - [UPC](https://www.gs1us.org/upcs-barcodes-prefixes/guide-to-upcs): Universal Product Code (barcode for GTIN)
 - URN: Uniform Resource Name
+- VDE: Verband Der Elektrotechnik
+- VDI: Verein Deutscher Ingenieure
+- VDMA: Verband Deutscher Maschinen- und Anlagenbau
 - WPL: Work Package Leader
+- ZVEI: Zentralverband der Elektrotechnischen Industrie
 
 ## Projects
 
