@@ -1,0 +1,13 @@
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[project]
+authors = [{ name = "René Schwaiger", email = "rene.schwaiger@ift.at" }]
+
+dependencies = ["myst-parser>=5", "sphinx>=9", "sphinx-pyproject>=0.3"]
+description = """Documentation about Digital Product Passport"""
+keywords = ["AAS"]
+name = "dpp"
+requires-python = ">=3.12,<4"
+version = "0.0.1"
