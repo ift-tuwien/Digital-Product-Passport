@@ -17,7 +17,7 @@ sphinx_output := "build/sphinx"
 [private]
 setup:
 	uv venv --allow-existing
-	uv sync --all-extras
+	uv pip install -r requirements.txt
 
 # Generate documentation
 [group('documentation')]
