@@ -17,6 +17,12 @@
     - [Resolver](https://ref.gs1.org/standards/resolver/)
 - Digital Product Passport API: https://dpp.basyx.org
 
+## Asset Administration Shell
+
+- Two “kinds” of assets:
+  - type asset
+  - instance asset
+
 ## Abbreviations
 
 - AAS: Asset Administration Shell
