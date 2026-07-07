@@ -12,6 +12,11 @@ project = "DPP Documentation"
 # -- General configuration ----------------------------------------------------
 
 extensions = [
+    "sphinxcontrib.bibtex",
     "myst_parser",
 ]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+
+# -- Bibliography -------------------------------------------------------------
+
+bibtex_bibfiles = ["refs.bib"]

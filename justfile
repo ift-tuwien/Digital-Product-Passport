@@ -8,7 +8,7 @@ set windows-shell := ["pwsh.exe", "-NoLogo", "-Command"]
 package := "icotest"
 
 sphinx_input := "doc/sphinx"
-sphinx_output := "build/sphinx"
+sphinx_output := "build"
 
 # -- Recipes -------------------------------------------------------------------
 
