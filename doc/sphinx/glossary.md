@@ -7,6 +7,10 @@ AAS
 AB
     Advisory Board
 
+ABAC
+
+    Attribute Based Access Control
+
 AI
     Application Identifier, e.g. `01` for GTIN
 
@@ -15,6 +19,9 @@ B2B2C
 
 CE
     [Conformité Européenne](https://en.wikipedia.org/wiki/CE_marking)
+
+CEN
+    [European Committee for Standardization](https://en.wikipedia.org/wiki/European_Committee_for_Standardization)
 
 CEAP
     Circular Economy Action Plan
@@ -30,6 +37,9 @@ CPV
 
 DMP
     Data Management Plan
+
+DPI
+    Digital Product Identifier
 
 DPP
     Digital Product Passport
@@ -103,6 +113,10 @@ IEC CDD
 IPR
     Intellectual Property Rights
 
+IRI
+
+    Internationalized Resource Identifier
+
 KER
     Key Expected Results
 
@@ -117,6 +131,9 @@ OA
 
 ODRL
     [Open Digital Rights Language](https://en.wikipedia.org/wiki/ODRL)
+
+OIDC
+    OpenID Connect
 
 PDCER
     Plan for D&C&E Strategy
