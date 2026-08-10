@@ -17,6 +17,9 @@ AI
 B2B2C
     Business to Business to Consumer
 
+BPMN
+    Business Process Model and Notation
+
 CE
     [Conformité Européenne](https://en.wikipedia.org/wiki/CE_marking)
 

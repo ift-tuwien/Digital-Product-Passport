@@ -3,14 +3,54 @@
 - Two “kinds” of assets:
   - type asset (`Type`)
   - instance asset (`Instance`)
+- [Intro from BaSyx][BaSyx Concepts] concepts is relatively nice
+  - Describes the different services of the AAS:
+    - Asset Administration Shell:
+      - Digital representation of asset
+      - Identifies asset
+      - Holds digital model of various aspects (submodel)
+    - AAS Submodules:
+      - Defines specific aspect of asset
+      - Can become standardized → Submodel types
+    - Registry:
+      - Enables registration and lookup of asset administration shells
+      - Entities that provide an AAS may register
+    - Discovery:
+      - Additional service that uses registry to find AAS and submodels
 
-- Many different providers of AAS software
-  - [BaSyx](https://basyx.org)
-    - [Open source](https://github.com/eclipse-basyx)
-    - AAS Environment:
-      - AAS Discovery
-      - AAS Registry
-      - Submodel Registry
-      - AAS Repository
-      - Submodel Repository
-      - Concept Description Repository
+## Tools
+
+### AAS Manager
+
+- [Homepage](https://github.com/rwth-iat/aas_manager)
+
+### BaSyx
+
+- [Homepage](https://basyx.org)
+- [Open source](https://github.com/eclipse-basyx)
+- AAS Environment:
+  - AAS Discovery
+  - AAS Registry
+  - Submodel Registry
+  - AAS Repository
+  - Submodel Repository
+  - Concept Description Repository
+- BaSyx components:
+  - **Control components**:
+    - E.g. actuator, sensor
+    - Do not decide when and if a specific service is called
+  - **Group components**:
+    - Higher level service
+    - Uses control and other group components
+    - Do not decide when and if a specific service is called
+  - **Virtual automation bus (VAB)**
+    - Maps five primitives (create/retrieve/update/delete/invoke) to network and protocols
+  - **Device integration components**
+    - VAB components
+    - Realized on edge devices
+    - Integrate non-Industrie 4.0 devices
+  - **Gateway**
+    - Bridge networks to enable inter-network communication
+    - Needs to provide mapping of primitives to its supported protocol
+  - **Process control**
+  - **Monitoring**

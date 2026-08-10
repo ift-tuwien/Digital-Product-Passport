@@ -7,6 +7,7 @@
 ## Links
 
 - [AAS Specification](https://industrialdigitaltwin.org/content-hub/aasspecifications)
+- [BaSyx Concepts](https://wiki.basyx.org/en/latest/content/concepts/basyx_concepts.html)
 - [Basyx Videos](https://eclipse.dev/basyx/videos/)
 - [DPP Data Requirements: What Information You Need to Collect (2026)](https://passportcraft.com/insights/dpp-data-requirements-what-to-collect)
 - [General information on the Asset Administration Shell and OPC UA](https://reference.opcfoundation.org/specs/OPC-30270/4)
