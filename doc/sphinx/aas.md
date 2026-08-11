@@ -63,3 +63,14 @@ Source: {cite:p}`idta2026api`
     - Needs to provide mapping of primitives to its supported protocol
   - **Process control**
   - **Monitoring**
+
+### Bosch Semantic Stack
+
+- Used for Battery Passport
+- Four levels
+  - Semantic Data Models Layer
+  - Semantic Data Layer
+  - Digital Twins and Data Products Layer
+  - Solutions Layer
+- Third level can be used to [manage digital twins](https://docs.bosch-semantic-stack.com/concepts/asset-administration-shell.html)
+- Fourth layer provides support for DPP
