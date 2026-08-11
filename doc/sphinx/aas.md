@@ -3,7 +3,7 @@
 - Two “kinds” of assets:
   - type asset (`Type`)
   - instance asset (`Instance`)
-- [Intro from BaSyx][BaSyx Concepts] concepts is relatively nice
+- [Intro from BaSyx](https://wiki.basyx.org/en/latest/content/concepts/basyx_concepts.html) concepts is relatively nice
   - Describes the different services of the AAS:
     - Asset Administration Shell:
       - Digital representation of asset
