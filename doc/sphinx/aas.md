@@ -12,11 +12,20 @@
     - AAS Submodules:
       - Defines specific aspect of asset
       - Can become standardized → Submodel types
+    - Repository:
+      - Store the data of Asset Administration Shells, Submodels and Concept Descriptions
     - Registry:
+      - Directories that store AAS-IDs and Submodel-IDS together with related endpoints (typically URL path into repository or to a single AAS/Submodel)
       - Enables registration and lookup of asset administration shells
       - Entities that provide an AAS may register
     - Discovery:
       - Additional service that uses registry to find AAS and submodels
+
+## Asset Retrival
+
+![Asset Retrival](pictures/asset-retrival.svg)
+
+Source: {cite:p}`idta2026api`
 
 ## Tools
 
