@@ -5,21 +5,33 @@
   - instance asset (`Instance`)
 - [Intro from BaSyx](https://wiki.basyx.org/en/latest/content/concepts/basyx_concepts.html) concepts is relatively nice
   - Describes the different services of the AAS:
-    - Asset Administration Shell:
+    - **Asset Administration Shell**:
       - Digital representation of asset
       - Identifies asset
       - Holds digital model of various aspects (submodel)
-    - AAS Submodules:
+    - **AAS Submodules**:
       - Defines specific aspect of asset
       - Can become standardized → Submodel types
-    - Repository:
+    - **Repository**:
       - Store the data of Asset Administration Shells, Submodels and Concept Descriptions
-    - Registry:
+    - **Registry**:
       - Directories that store AAS-IDs and Submodel-IDS together with related endpoints (typically URL path into repository or to a single AAS/Submodel)
       - Enables registration and lookup of asset administration shells
       - Entities that provide an AAS may register
-    - Discovery:
+    - **Discovery**:
       - Additional service that uses registry to find AAS and submodels
+
+## Specification
+
+- [Metamodel](https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.2/index.html)
+
+### Interesting Links
+
+[Common Attributes](https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.2/spec-metamodel/common.html): Define the interfaces various classes implement
+
+## Definition for Various Attributes
+
+- [AssetInformation](https://aas-core-works.github.io/aas-core-meta/v3/AssetInformation.html)
 
 ## Asset Retrival
 
@@ -29,9 +41,15 @@ Source: {cite:p}`idta2026api`
 
 ## Tools
 
+- [List from IDTA](https://industrialdigitaltwin.org/solutions-hub)
+
 ### AAS Manager
 
 - [Homepage](https://github.com/rwth-iat/aas_manager)
+
+### AAS (JSON/XML) to RDF (JSON-LD/Turtle)
+
+- [Homepage](https://github.com/mhrimaz/py-aas-rdf)
 
 ### BaSyx
 
