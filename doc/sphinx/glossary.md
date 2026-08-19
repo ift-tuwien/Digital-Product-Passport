@@ -21,7 +21,7 @@ BPMN
     Business Process Model and Notation
 
 CE
-    [Conformité Européenne](https://en.wikipedia.org/wiki/CE_marking)
+    Circular Economy
 
 CEN
     [European Committee for Standardization](https://en.wikipedia.org/wiki/European_Committee_for_Standardization)
@@ -37,6 +37,9 @@ CIRPASS
 
 CPV
     Consumer Product Variant
+
+DCP
+    Decentralized Claims Protocol
 
 DMP
     Data Management Plan
@@ -54,7 +57,7 @@ DSSC
     Data Spaces Support Center
 
 EDC
-    Eclipse Data Space Connector
+    European Data Cooperative or Eclipse Data Space Connector
 
 EDI
     [Electronic Data Interchange](https://en.wikipedia.org/wiki/Electronic_data_interchange)
@@ -116,9 +119,14 @@ IEC CDD
 IPR
     Intellectual Property Rights
 
-IRI
+IRDI
+    [International Registration Data Identifier](https://eclass.eu/support/technical-specification/structure-and-elements/irdi)
 
+IRI
     Internationalized Resource Identifier
+
+JSON-LD
+    JavaScript Object Notation for Linked Data
 
 KER
     Key Expected Results
@@ -138,6 +146,9 @@ ODRL
 OIDC
     OpenID Connect
 
+OWL
+    [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
+
 PDCER
     Plan for D&C&E Strategy
 
@@ -153,11 +164,20 @@ PLM
 PMS
     Process Management System
 
-SGTIN
-    Serialized GTIN
+PSS
+    Product Service Systems
+
+RDF
+    [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
 SC
     Steering Committee
+
+SHACL
+    [Shape Constraint Language](https://en.wikipedia.org/wiki/SHACL)
+
+SGTIN
+    Serialized GTIN
 
 SKU
     Stock Keeping Unit
@@ -189,6 +209,9 @@ TDT
 TRL
     [Technology Readiness Level](https://en.wikipedia.org/wiki/Technology_readiness_level)
 
+UNTP
+    [UN Transparency Protocol](https://untp.unece.org/docs/specification/Architecture)
+
 UPC
     [Universal Product Code](https://www.gs1us.org/upcs-barcodes-prefixes/guide-to-upcs) (barcode for GTIN)
 
@@ -206,6 +229,9 @@ VDMA
 
 WPL
     Work Package Leader
+
+XSD
+    XML Schema Definition
 
 ZVEI
     Zentralverband der Elektrotechnischen Industrie
