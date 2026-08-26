@@ -246,4 +246,25 @@ XSD
 ZVEI
   Zentralverband der Elektrotechnischen Industrie
 ```
+
+## Standards
+
+```{glossary}
+ISO/IEC 646:1991
+  ISO 7-bit coded character set for information interchange
+
+ISO/IEC 15418
+  Automatic identification and data capture techniques — GS1 Application Identifiers and ASC MH10 Data Identifiers and maintenance
+
+ISO/IEC 15459
+  Automatic identification and data capture techniques — Unique identification
+
+ISO/IEC 18975
+  Automatic identification and data capture techniques — Encoding and resolving identifiers over HTTP
+
+EN 18216
+  Digital product passport - Data exchange protocols
+
+EN 18219
+  Digital product passport - Unique identifiers
 ```
