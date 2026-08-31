@@ -7,7 +7,7 @@ from datetime import datetime
 # -- Project information ------------------------------------------------------
 
 copyright = f"{datetime.now().year}, René Schwaiger"
-project = "DPP Documentation"
+project = "Digital Product Passport"
 
 # -- General configuration ----------------------------------------------------
 
