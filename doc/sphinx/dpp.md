@@ -51,7 +51,10 @@
   - Consumer usage: No special software for users required
   - No undue restrictions: No vendor-lock-in
 - ID Schema:
-  - Use [ISO/IEC 15459](https://esprregistry.com/iso-15459-data-carriers/): e.g. GS1 GTIN (ISO/IEC 15459 compatible) for model and serial number to identify specific product
+  - ID scheme 1: Web enabled, structured path and query ID for products
+    - Use [ISO/IEC 15459](https://esprregistry.com/iso-15459-data-carriers/): e.g. GS1 GTIN (ISO/IEC 15459 compatible) for model and serial number to identify specific product
+    - Also add MH10.8.2 Data Identifier
+  - ID scheme 2: Identification Link (IL) string for products
 
 ## QR Code
 
